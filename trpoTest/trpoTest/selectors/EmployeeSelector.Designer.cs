@@ -40,6 +40,7 @@
             employeeTable1.Name = "employeeTable1";
             employeeTable1.Size = new Size(776, 470);
             employeeTable1.TabIndex = 0;
+            employeeTable1.SelectionChanged += employeeTable1_SelectionChanged;
             // 
             // saveButton
             // 

@@ -140,5 +140,18 @@ namespace trpoTest.tables
         {
             Search(textBox1.Text, comboBox1.SelectedIndex);
         }
+
+        // выбор по таб номеру
+        public void SelectByTabNum(string tabNum)
+        {
+            foreach(DataGridViewRow row in employeeDataGrid.Rows)
+            {
+                if (row.Cells[0].Value.Equals(tabNum)){
+                    row.Selected = true;
+                    employeeDataGrid.FirstDisplayedScrollingRowIndex = row.Index;
+                    return;
+                }
+            }
+        }
     }
 }

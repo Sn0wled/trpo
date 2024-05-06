@@ -20,6 +20,12 @@ namespace trpoTest.selectors
             employeeTable1.DataSource = Program.dataSource;
         }
 
+        public void Init()
+        {
+            employeeTable1.FillTable();
+            CheckSave();
+        }
+
         public void CheckSave()
         {
             if (employeeTable1.HasSelected)
@@ -41,6 +47,16 @@ namespace trpoTest.selectors
         private void delButton_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        public void Select(string tabNum)
+        {
+            employeeTable1.SelectByTabNum(tabNum);
+        }
+
+        private void employeeTable1_SelectionChanged(object sender, EventArgs e)
+        {
+            CheckSave();
         }
     }
 }
