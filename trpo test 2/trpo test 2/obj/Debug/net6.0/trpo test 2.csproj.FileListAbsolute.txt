@@ -1,0 +1,46 @@
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.exe
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.deps.json
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.runtimeconfig.json
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.pdb
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\Npgsql.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\System.Text.Json.dll
+D:\c++ тесты\trpo test 2\trpo test 2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.csproj.AssemblyReference.cache
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.AssemblyInfoInputs.cache
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.AssemblyInfo.cs
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.csproj.CoreCompileInputs.cache
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.csproj.CopyComplete
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.dll
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\refint\trpo test 2.dll
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.pdb
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.genruntimeconfig.cache
+D:\c++ тесты\trpo test 2\trpo test 2\obj\Debug\net6.0\ref\trpo test 2.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.exe
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.deps.json
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.runtimeconfig.json
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\trpo test 2.pdb
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\Npgsql.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\System.Text.Json.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.csproj.AssemblyReference.cache
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.AssemblyInfoInputs.cache
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.AssemblyInfo.cs
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.csproj.CoreCompileInputs.cache
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\refint\trpo test 2.dll
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.pdb
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo test 2.genruntimeconfig.cache
+D:\Программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\ref\trpo test 2.dll
+D:\программирование\trpo\trpo test 2\trpo test 2\obj\Debug\net6.0\trpo tes.75C3F722.Up2Date

@@ -1,0 +1,40 @@
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo test 2.deps.json
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo test 2.runtimeconfig.json
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo test 2.exe
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo.exe
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo.deps.json
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo.runtimeconfig.json
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo.dll
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo.pdb
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\Npgsql.dll
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo test 2.dll
+D:\программирование\trpo\trpo test 2\trpo\bin\Debug\net8.0-windows\trpo test 2.pdb
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.csproj.AssemblyReference.cache
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.Form1.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.csproj.GenerateResource.cache
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.AssemblyInfoInputs.cache
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.AssemblyInfo.cs
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.csproj.CoreCompileInputs.cache
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.csproj.Up2Date
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.dll
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\refint\trpo.dll
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.pdb
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.genruntimeconfig.cache
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\ref\trpo.dll
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.ZbmBuildingPlace.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.zbmBuildingPlace.editors.ZbmEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.zbmBuildingPlace.editors.BuildingEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.zbmBuildingPlace.editors.PlaceEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.Materials.MaterialsForm.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.Materials.MaterialEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.containers.ContainersForm.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.containers.CubeContainerEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.containers.CylContainerEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.scales.ScalesForm.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.scales.ScalesEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.empl.EmployeeForm.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.empl.EmployeeEditor.resources
+D:\программирование\trpo\trpo test 2\trpo\obj\Debug\net8.0-windows\trpo.empl.PostChooser.resources

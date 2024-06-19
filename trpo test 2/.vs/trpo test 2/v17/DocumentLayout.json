@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D47E7F-9F5A-4492-918F-21F6BA604779}|trpo test 2\\trpo test 2.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\colections\\employeedatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D47E7F-9F5A-4492-918F-21F6BA604779}|trpo test 2\\trpo test 2.csproj|solutionrelative:trpo test 2\\colections\\employeedatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\employeeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\employeeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D47E7F-9F5A-4492-918F-21F6BA604779}|trpo test 2\\trpo test 2.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\colections\\matereialdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D47E7F-9F5A-4492-918F-21F6BA604779}|trpo test 2\\trpo test 2.csproj|solutionrelative:trpo test 2\\colections\\matereialdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\employeeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\employeeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\materials\\materialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\materials\\materialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\materials\\materialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\materials\\materialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\postchooser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\postchooser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\postchooser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\postchooser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\postchooser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0216C2-DCE1-4F03-8FF4-A140AC6914FF}|trpo\\trpo.csproj|solutionrelative:trpo\\empl\\postchooser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D47E7F-9F5A-4492-918F-21F6BA604779}|trpo test 2\\trpo test 2.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D47E7F-9F5A-4492-918F-21F6BA604779}|trpo test 2\\trpo test 2.csproj|solutionrelative:trpo test 2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatereialDataSource.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\colections\\MatereialDataSource.cs",
+              "RelativeDocumentMoniker": "trpo test 2\\colections\\MatereialDataSource.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\colections\\MatereialDataSource.cs",
+              "RelativeToolTip": "trpo test 2\\colections\\MatereialDataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:14:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaterialsForm.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\Materials\\MaterialsForm.cs",
+              "RelativeDocumentMoniker": "trpo\\Materials\\MaterialsForm.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\Materials\\MaterialsForm.cs",
+              "RelativeToolTip": "trpo\\Materials\\MaterialsForm.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:10:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaterialsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\Materials\\MaterialsForm.cs",
+              "RelativeDocumentMoniker": "trpo\\Materials\\MaterialsForm.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\Materials\\MaterialsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "trpo\\Materials\\MaterialsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:10:53.158Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostChooser.Designer.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\PostChooser.Designer.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\PostChooser.Designer.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\PostChooser.Designer.cs",
+              "RelativeToolTip": "trpo\\empl\\PostChooser.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:40:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "trpo test 2\\models\\Employee.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\models\\Employee.cs",
+              "RelativeToolTip": "trpo test 2\\models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:29:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDatasource.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\colections\\EmployeeDatasource.cs",
+              "RelativeDocumentMoniker": "trpo test 2\\colections\\EmployeeDatasource.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo test 2\\colections\\EmployeeDatasource.cs*",
+              "RelativeToolTip": "trpo test 2\\colections\\EmployeeDatasource.cs*",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwHAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:29:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\EmployeeForm.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeForm.cs",
+              "RelativeToolTip": "trpo\\empl\\EmployeeForm.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwFAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:22:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\EmployeeForm.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "trpo\\empl\\EmployeeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:22:26.857Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostChooser.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\PostChooser.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\PostChooser.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\PostChooser.cs",
+              "RelativeToolTip": "trpo\\empl\\PostChooser.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAqwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:15:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostChooser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\PostChooser.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\PostChooser.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\PostChooser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "trpo\\empl\\PostChooser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:08:37.496Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeEditor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeEditor.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\EmployeeEditor.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeEditor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "trpo\\empl\\EmployeeEditor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:50:32.285Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeEditor.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeEditor.cs",
+              "RelativeDocumentMoniker": "trpo\\empl\\EmployeeEditor.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\trpo\\trpo test 2\\trpo\\empl\\EmployeeEditor.cs",
+              "RelativeToolTip": "trpo\\empl\\EmployeeEditor.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAL8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:39:08.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
